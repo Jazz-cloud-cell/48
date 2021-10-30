@@ -11,10 +11,10 @@ var doremi, doremon, nobita, sprites;
 
 function preload()
 {
-  sky = loadImage("../images/sky.jpg");
-  doremi_img = loadImage("../images/doremi.png");
-  doremon_img = loadImage("../images/doremon.png");
-  nobita_img = loadImage("../images/nobita.png");
+  sky = loadImage("images/sky.jpg");
+  doremi_img = loadImage("images/doremi.png");
+  doremon_img = loadImage("images/doremon.png");
+  nobita_img = loadImage("images/nobita.png");
 }
 
 function setup(){
